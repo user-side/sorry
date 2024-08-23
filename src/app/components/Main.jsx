@@ -123,7 +123,7 @@ function Main() {
                         href="#"
                         className="w-max flex items-center gap-3 invisible absolute left-0 top-0 translate-y-3 transition duration-300 group-hover:visible group-hover:translate-y-0"
                       >
-                        <span>Listen now</span>
+                        <span>Listening now</span>
                         <svg
                           xmlns="http://www.w3.org/2000/svg"
                           className="h-4 w-4 -translate-x-4 transition duration-300 group-hover:translate-x-0"
